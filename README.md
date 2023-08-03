@@ -9,7 +9,7 @@ Our contemporary creators make their mark by sharing their visions of beauty, op
 
 ![image](https://github.com/Phyllis-wu/Art-Gallery/assets/140414582/db3e4e24-e2a0-4afe-845e-c5638825475d)
 
-Web visit: https://64c3cca9edee7a7d2cfffbe1--shiny-sopapillas-58c217.netlify.app/. Install as a PWA for native-like functionality!🥳 🚀
+Web visit: https://magnificent-sherbet-6a3e78.netlify.app/. Install as a PWA for native-like functionality!🥳 🚀
 
 
 
