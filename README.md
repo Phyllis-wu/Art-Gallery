@@ -25,8 +25,9 @@ Web visit: https://magnificent-sherbet-6a3e78.netlify.app/. Install as a PWA for
 
 ## Installation
 
-Clone the file, open it on the server and open the project
-    
+1. Clone Repo (git clone: https://github.com/Phyllis-wu/Art-Gallery )
+2. Open code folder
+3. Run index.html file
     
 ## Usage/Examples
 
